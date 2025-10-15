@@ -1,6 +1,4 @@
-package src.main.java.com.lld.DesignPattern.Singleton;
-
-import java.util.concurrent.ThreadLocalRandom;
+package src.main.java.com.lld.DesignPattern.creational.Singleton;
 
 public class ThreadSafeLogger {
 

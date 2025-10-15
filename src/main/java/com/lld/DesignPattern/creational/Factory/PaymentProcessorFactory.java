@@ -1,4 +1,4 @@
-package src.main.java.com.lld.DesignPattern.Factory;
+package src.main.java.com.lld.DesignPattern.creational.Factory;
 
 public class PaymentProcessorFactory {
 

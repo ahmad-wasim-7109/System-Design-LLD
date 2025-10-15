@@ -1,4 +1,4 @@
-package src.main.java.com.lld.DesignPattern.AbstractFactory;
+package src.main.java.com.lld.DesignPattern.creational.AbstractFactory;
 
 public class Main {
     public static void main(String[] args) {

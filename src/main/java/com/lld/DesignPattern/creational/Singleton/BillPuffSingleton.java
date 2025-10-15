@@ -1,4 +1,4 @@
-package src.main.java.com.lld.DesignPattern.Singleton;
+package src.main.java.com.lld.DesignPattern.creational.Singleton;
 
 public class BillPuffSingleton {
 

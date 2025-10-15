@@ -1,4 +1,4 @@
-package src.main.java.com.lld.DesignPattern.Builder;
+package src.main.java.com.lld.DesignPattern.creational.Builder;
 
 public class Car {
     private final String engine;

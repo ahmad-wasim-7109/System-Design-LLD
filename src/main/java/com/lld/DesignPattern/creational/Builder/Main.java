@@ -1,4 +1,4 @@
-package src.main.java.com.lld.DesignPattern.Builder;
+package src.main.java.com.lld.DesignPattern.creational.Builder;
 
 public class Main {
     public static void main(String[] args) {
